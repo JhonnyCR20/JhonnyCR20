@@ -1,4 +1,4 @@
-# Hi 👋! My name is Jhonny Miranda
+# Hi 👋 My name is Jhonny Miranda
 
 💻 Passionate about **front-end development**, user-focused design, and building responsive web apps using modern frameworks like **React**, **Node.js**, and **Tailwind CSS**.  .
 
