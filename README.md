@@ -11,8 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyCR20&layout=compact&theme=radical" width="320" />
 </p>
 
----
-
 ## 🛠️ Technologies & Tools
 
 <p align="center">
@@ -28,13 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </p>
----
 
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonny-miranda-salazar/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnyrs22@hotmail.com)
-
----
 
 *“Learning never exhausts the mind.” – Leonardo da Vinci*
