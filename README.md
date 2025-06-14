@@ -1,18 +1,21 @@
 # Hi 👋! My name is Jhonny Miranda
 
-🎓 I'm a Computer Engineering student from Costa Rica, graduating in **July 2025**.  
-💻 Passionate about **front-end development**, user-focused design, and building responsive web apps using modern frameworks like **React**, **Node.js**, and **Tailwind CSS**.  
-🚀 Always learning, always building — focused on clean code, usability, and teamwork.
+💻 Passionate about **front-end development**, user-focused design, and building responsive web apps using modern frameworks like **React**, **Node.js**, and **Tailwind CSS**.  .
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonnyCR20&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyCR20&layout=compact&theme=radical" />
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JhonnyCR20&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyCR20&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Technologies & Tools
@@ -30,22 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </p>
-
----
-
-## 🚀 Projects
-
-- 🎯 **UCRES Web Application** – Built interactive dashboards using **Chart.js**, **Bootstrap**, and **JavaScript** to visualize student enrollment data.
-- 📘 **University Web Platform** – Developed with **Node.js** and **Tailwind CSS** to create modern, responsive interfaces for faculty and student engagement.
-
----
-
-## 📚 Education
-
-**Bachelor of Science in Computer Engineering**  
-*University of Costa Rica* (Graduating 2025)  
-GPA: 85
-
 ---
 
 ## 📫 Contact Me
